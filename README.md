@@ -1,0 +1,2 @@
+# seyircioyunu
+Seyirci Oyunu
